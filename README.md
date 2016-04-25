@@ -7,7 +7,7 @@ Renderer is implemented in pure Java, without any additional frameworks. Project
 * Z-buffering
 * Controllable camera
 * Controllable 3D transformations: scaling, translation, rotation
-* Simple 3D object manager 
+* Simple manager for 3D objects
 
 ## Requirements
 JDK 8
