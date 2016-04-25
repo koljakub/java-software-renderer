@@ -2,7 +2,7 @@
 Java implementation of a software renderer. Software rendering is handled only by a CPU, without any GPU support.
 Renderer is implemented in pure Java, without any additional frameworks. Project was created as an programming assignment for a Computer Graphics 2 course at Faculty of informatics and management, University of Hradec Kralove.
 
-## Software features
+## Features
 * Wireframe / solid model selection
 * Z-buffering
 * Controllable camera
