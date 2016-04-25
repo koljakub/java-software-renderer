@@ -3,10 +3,10 @@ Java implementation of a software renderer. Software rendering is handled only b
 Renderer is implemented in pure Java, without any additional frameworks. Project was created as an programming assignment for a Computer Graphics 2 course at Faculty of informatics and management, University of Hradec Kralove.
 
 ## Software features
-* Wireframe / Solid model selection
+* Wireframe / solid model selection
 * Z-buffering
 * Controllable camera
-* Controllable 3D transformations: Scaling, translation, rotation.
+* Controllable 3D transformations: scaling, translation, rotation
 * Simple 3D object manager 
 
 ## Requirements
