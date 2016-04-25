@@ -158,4 +158,4 @@ public class Camera {
 	public double getZenith() {
 		return zenith;
 	}
-}1
+}

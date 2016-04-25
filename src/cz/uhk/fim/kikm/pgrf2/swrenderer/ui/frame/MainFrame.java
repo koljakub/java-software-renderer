@@ -23,7 +23,7 @@ public final class MainFrame extends JFrame {
     public static final int DEFAULT_WIDTH = 1024;
     public static final int DEFAULT_HEIGHT = 768;
     public static final Color DEFAULT_CANVAS_BGCOLOR = Color.WHITE;
-    private static final String FRAME_TITLE = "Z-Buffer";
+    private static final String FRAME_TITLE = "Java Software Renderer";
     private static final String MAIN_MENU_TITLE = "Main menu";
     private final Canvas canvas;
     private final MainScene mainScene;
