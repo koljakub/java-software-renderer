@@ -10,7 +10,7 @@ Renderer is implemented in pure Java, without any additional frameworks. This so
 * Simple manager for 3D objects
 
 ## Requirements
-JDK 8
+* JDK 8
 
 ## Downloads
 https://sourceforge.net/projects/java-sw-renderer/files/
